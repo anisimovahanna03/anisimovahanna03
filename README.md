@@ -6,8 +6,6 @@
 
 ---
 
-## 🇷🇺 Технологический стек и проекты
-
 ### 🛠 Технологический стек и инструменты
 * **Проектирование (Hardware):** САПР Altium Designer (разработка принципиальных электрических схем, трассировка двухслойных печатных плат).
 * **Программирование (Firmware):** язык Си, среда Atmel Studio / Microchip Studio (разработка архитектуры прошивок, низкоуровневая работа с регистрами и периферией МК семейства AVR).
@@ -16,7 +14,7 @@
 
 ---
 
-## 🇬🇧 Hardware & Embedded Systems Developer
+## Hardware & Embedded Systems Developer
 
 I execute the full device development lifecycle: from schematic capture and printed circuit board (PCB) routing to low-level microcontroller firmware development.
 
