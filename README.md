@@ -1,26 +1,27 @@
-# Разработчик электроники и встроенных систем (Hardware / Embedded)
+# Hardware & Embedded Systems Developer
 
-Выполняю полный цикл проектирования электронных устройств: от разработки принципиальных электрических схем и трассировки печатных плат до написания низкоуровневого программного обеспечения микроконтроллеров.
+Выполняю полный цикл проектирования электронных устройств: от разработки принципиальных схем и трассировки печатных плат до написания низкоуровневого ПО микроконтроллеров и прототипирования корпусов.
 
-Проектирование веду с опорой на **3-летний практический опыт работы технологом на электронном производстве**. Это позволяет мне закладывать технологические требования (DFM) на этапе создания схемы и топологии, минимизируя брак при серийной сборке и автоматизированном монтаже плат.
+Проектирование веду с опорой на **более чем 3-летний практический опыт работы технологом на электронном производстве**. Это позволяет мне закладывать технологические требования (DFM) на этапе создания топологии плат, минимизируя брак при серийной сборке и автоматизированном монтаже. Дополнительно моделирую корпуса приборов в САПР КОМПАС-3Д и печатаю прототипы на FDM 3D-принтере.
 
 ### 🛠 Технологический стек и инструменты
-* **Проектирование (Hardware):** САПР Altium Designer (разработка принципиальных электрических схем, трассировка двухслойных печатных плат).
-* **Программирование (Firmware):** язык Си, среда Atmel Studio / Microchip Studio (разработка архитектуры прошивок, низкоуровневая работа с регистрами и периферией МК семейства AVR).
-* **Симуляция (Simulation):** среда Proteus VSM (виртуальная сборка схем, комплексная отладка кода и проверка работы алгоритмов).
-* **Контроль версий:** Git, GitHub.
+
+* **Схемотехника и КД** — Altium Designer | Разработка принципиальных схем и трассировка печатных плат
+* **Программное обеспечение** — Язык Си | Atmel Studio | Архитектура AVR
+* **Конструирование и 3D-печать** — САПР КОМПАС-3Д | Проектирование корпусов | FDM-печать прототипов
+* **Моделирование процессов** — Proteus VSM | Виртуальное прототипирование и отладка алгоритмов
+* **Контроль версий** — Git | GitHub
 
 ---
 
-## Hardware & Embedded Systems Developer
+I execute the full device development lifecycle: from schematic capture and PCB design to low-level microcontroller firmware development and rapid enclosure prototyping.
 
-I execute the full device development lifecycle: from schematic capture and printed circuit board (PCB) routing to low-level microcontroller firmware development.
-
-My engineering design process is strictly combined with **3 years of experience as a manufacturing engineer in electronics production**. This background allows me to implement DFM (Design for Manufacturing) rules directly into schematics and layouts, minimizing assembly defects during volume production.
+My engineering design process is strictly combined with **3+ years of professional experience as a manufacturing engineer in electronics production**. This expertise allows me to implement DFM (Design for Manufacturing) rules directly into PCB layouts, minimizing assembly defects during volume production. Additionally, I design custom enclosures using KOMPAS-3D CAD and utilize an FDM 3D printing workflow to deliver complete hardware prototypes.
 
 ### 🛠 Tech Stack & Tools
-* **Hardware Design:** Altium Designer (schematic capture, 2-layer PCB layout routing).
-* **Firmware Development:** C language, Atmel Studio / Microchip Studio (bare-metal register-level programming and peripheral drivers for AVR microcontrollers).
-* **Simulation:** Proteus VSM (virtual prototyping, circuit verification, and firmware debugging).
-* **Version Control:** Git, GitHub.
 
+* **Hardware Design** — Altium Designer | Schematic capture & PCB layout routing
+* **Firmware Development** — C language | Atmel Studio | AVR architecture
+* **Mechanical & Prototyping** — KOMPAS-3D CAD | Enclosure design | FDM 3D printing
+* **Circuit Simulation** — Proteus VSM | Virtual prototyping & firmware debugging
+* **Version Control** — Git | GitHub
