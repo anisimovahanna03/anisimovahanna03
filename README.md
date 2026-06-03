@@ -6,14 +6,14 @@
 
 ## 🇷🇺 Описание на русском
 
-Я перехожу в сферу разработки электроники и встроенных систем (Hardware / Embedded) [•]. Мой базовый бэкграунд — **3 года работы технологом на электронном производстве**, что дает мне глубокое понимание процессов сборки, пайки и монтажа печатных плат [•]. 
+Инженер-разработчик электроники и встроенных систем (Hardware / Embedded) [•]. Выполняю полный цикл проектирования устройств: от разработки принципиальных электрических схем и трассировки печатных плат до написания низкоуровневого программного обеспечения для микроконтроллеров [•].
 
-В настоящее время я активно восстанавливаю и углубляю навыки программирования микроконтроллеров и проектирования аппаратной части [•]. Нацелена на развитие в области схемотехники, трассировки плат и написания прошивок на Си [•].
+Проектирование веду с опорой на **3-летний практический опыт работы технологом на электронном производстве** [•]. Это позволяет мне закладывать технологические требования (DFM) на этапе создания схемы и топологии, минимизируя брак при серийной сборке и монтаже плат [•].
 
-### 🛠 Текущий стек и инструменты разработки
+### 🛠 Технологический стек и инструменты разработки
 * **Проектирование (Hardware):** САПР Altium Designer (разработка принципиальных электрических схем, трассировка двухслойных печатных плат) [•].
-* **Программирование (Firmware):** язык Си, среда Atmel Studio / Microchip Studio (низкоуровневая работа с периферией МК семейства AVR) [•].
-* **Симуляция (Simulation):** среда Proteus VSM (виртуальная сборка схем, отладка кода и проверка работы алгоритмов) [•].
+* **Программирование (Firmware):** язык Си, среда Atmel Studio / Microchip Studio (разработка архитектуры прошивок, низкоуровневая работа с регистрами и периферией МК семейства AVR) [•].
+* **Симуляция (Simulation):** среда Proteus VSM (виртуальная сборка схем, комплексная отладка кода и проверка работы алгоритмов) [•].
 * **Контроль версий:** Git, GitHub [•].
 
 📐 **Активный проект в репозитории:** [Infant-Incubator-Control-Unit](https://github.com) — разработка блока управления неонатальным инкубатором на базе AVR (ПИД-регулирование, схемотехника и прошивка) [•].
@@ -22,14 +22,20 @@
 
 ## 🇬🇧 English Version
 
-I am transitioning into Hardware and Embedded Systems development [•]. My foundational background includes **3 years of experience as a manufacturing engineer in electronics production**, providing me with a solid understanding of PCB assembly, soldering, and component mounting processes [•].
+Hardware & Embedded Systems Developer [•]. I execute the full device development lifecycle: from schematic capture and printed circuit board (PCB) routing to low-level microcontroller firmware development [•].
 
-Currently, I am actively refreshing and advancing my skills in microcontroller programming and hardware design, focusing on schematic capture, PCB layout, and firmware development in C [•].
+My engineering design process is strictly combined with **3 years of experience as a manufacturing engineer in electronics production** [•]. This background allows me to implement DFM (Design for Manufacturing) rules directly into schematics and layouts, minimizing assembly defects during volume production [•].
 
-### 🛠 Current Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 * **Hardware Design:** Altium Designer (schematic capture, 2-layer PCB layout routing) [•].
-* **Firmware Development:** C language, Atmel Studio / Microchip Studio (low-level peripheral programming for AVR microcontrollers) [•].
-* **Simulation:** Proteus VSM (virtual prototyping, circuit verification, and code debugging) [•].
+* **Firmware Development:** C language, Atmel Studio / Microchip Studio (bare-metal register-level programming and peripheral drivers for AVR microcontrollers) [•].
+* **Simulation:** Proteus VSM (virtual prototyping, circuit verification, and firmware debugging) [•].
 * **Version Control:** Git, GitHub [•].
 
 📐 **Active Project:** [Infant-Incubator-Control-Unit](https://github.com) — an AVR-based infant incubator control unit project (schematics, firmware, and PID regulation) [•].
+
+---
+
+## 📫 Контакты / Contacts
+* **Telegram:** [@Ваш_юзернейм]
+* **Email:** [Ваш_рабочий_email]
