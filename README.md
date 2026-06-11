@@ -7,7 +7,7 @@
 ### 🛠 Технологический стек и инструменты
 
 * **Схемотехника и КД** — Altium Designer | Разработка принципиальных схем и трассировка печатных плат
-* **Программное обеспечение** — Язык Си | Atmel Studio | Архитектура AVR
+* **Программное обеспечение** — Язык Си | STM32CubeIDE | Архитектура STM32
 * **Конструирование и 3D-печать** — САПР КОМПАС-3Д | Проектирование корпусов | FDM-печать прототипов
 * **Моделирование процессов** — Proteus VSM | Виртуальное прототипирование и отладка алгоритмов
 * **Контроль версий** — Git | GitHub
@@ -21,7 +21,7 @@ My engineering design process is strictly combined with **3+ years of profession
 ### 🛠 Tech Stack & Tools
 
 * **Hardware Design** — Altium Designer | Schematic capture & PCB layout routing
-* **Firmware Development** — C language | Atmel Studio | AVR architecture
+* **Firmware Development** — C language | STM32CubeIDE | STM32 architecture
 * **Mechanical & Prototyping** — KOMPAS-3D CAD | Enclosure design | FDM 3D printing
 * **Circuit Simulation** — Proteus VSM | Virtual prototyping & firmware debugging
 * **Version Control** — Git | GitHub
